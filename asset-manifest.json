@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jtmooc/bookstore/static/css/main.04d61a19.css",
+    "main.js": "/jtmooc/bookstore/static/js/main.6208c68d.js",
+    "static/js/787.686d3523.chunk.js": "/jtmooc/bookstore/static/js/787.686d3523.chunk.js",
+    "index.html": "/jtmooc/bookstore/index.html",
+    "main.04d61a19.css.map": "/jtmooc/bookstore/static/css/main.04d61a19.css.map",
+    "main.6208c68d.js.map": "/jtmooc/bookstore/static/js/main.6208c68d.js.map",
+    "787.686d3523.chunk.js.map": "/jtmooc/bookstore/static/js/787.686d3523.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04d61a19.css",
+    "static/js/main.6208c68d.js"
+  ]
+}
